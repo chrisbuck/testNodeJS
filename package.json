@@ -1,0 +1,27 @@
+{
+  "name": "testnodejs",
+  "version": "1.0.0",
+  "description": "Test for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbuck/testNodeJS.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Chris Buck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisbuck/testNodeJS/issues"
+  },
+  "homepage": "https://github.com/chrisbuck/testNodeJS#readme",
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "gulp": "^3.9.1",
+    "minimatch": "^3.0.3"
+  }
+}
